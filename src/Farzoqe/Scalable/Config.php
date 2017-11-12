@@ -11,7 +11,7 @@ namespace Farzqe\Scalable;
 /**
  * Description of Config
  *
- * @author ZOQ
+ * @author ZOQe
  */
 class Config {
 
