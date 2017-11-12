@@ -1,21 +1,8 @@
 {
-    "repositories": [
-        {
-            "package": {
-                "type": "package",
-                "name": "farzoqe/scalable",
-                "version": "dev-master",
-                "source": {
-                    "url": "git://github.com/farzoqe/scalable.git",
-                    "type": "git",
-                    "reference": "master"
-                },
-                "autoload": {
-                    "psr-0": {
-                        "Farzoqe\\Scalable": "src"
-                    }
-                }
-            }
+    "name": "farzoqe/scalable",
+    "autoload": {
+        "psr-0": {
+            "Farzoqe\\Scalable": "src"
         }
-    ]
+    }
 }
