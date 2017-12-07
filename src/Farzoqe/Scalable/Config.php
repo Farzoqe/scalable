@@ -15,7 +15,7 @@ namespace Farzoqe\Scalable;
  */
 class Config {
 
-    public static $key = 'PgWZ3JVNgNHqRFhC';
-    public static $secret = 'ikuoVkJdHnywuZI3';
+    public static $key = '';
+    public static $secret = '';
 
 }
