@@ -13,7 +13,7 @@ namespace Farzoqe\Scalable;
  *
  * @author ZOQ
  */
-class Address {
+class AddressNew {
 
     public $firstName;
     public $lastName;

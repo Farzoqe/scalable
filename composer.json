@@ -1,5 +1,14 @@
 {
-    "name": "farzoqe/scalable",
+    "name": "zoq/scalable",
+    "description": "scalable",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Farzoqe Khan",
+            "email": "Farzoqe@users.noreply.github.com"
+        }
+    ],
+    "require": {},
     "autoload": {
         "psr-0": {
             "Farzoqe\\Scalable": "src"
